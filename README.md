@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 You can also check out my portfolio at [https://github.com/hoonnete]
+- 👨‍💻 You can also check out my portfolio at https://github.com/hoonnete
 
 - 📫 How to reach me **n7amirr@gmail.com**
 
