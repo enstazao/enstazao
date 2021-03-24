@@ -1,18 +1,22 @@
-<h1 align="center">Hi 👋, I'm Jawad Ahmed</h1>
-<h1 align="center">I Like Coding and love to explore New Things</h1>
+### Hi there 👋
+
+## I am Jawad Ahmed 👨‍💻
 
 
+### About Me:
 
-- 👨‍💻 You can also check out my portfolio at https://github.com/hoonnete
+- 🔭 I’m Studying Fast in BS Computer Science
+- 🌱 I’m currently learning PYTHON , WebDesigning
 
-- 📫 How to reach me **n7amirr@gmail.com**
 
-- ⚡ Fun fact **I Like Cricket**
+- 💬 Ask me about HTML,CSS,Bootstrap
+- 📫 How to reach me Email:p200165@pwr.nu.edu.pk:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/jawad-ahmed-1bb8ba1bb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
-<a href="https://www.instagram.com/h.oonnete/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCIz1LSOTKS8SyqHoEJWdjCA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a>
-</p>
+
+- ⚡ Fun fact: I love cricket,Football 
+
+<br>
+
+[![Twitter Badge](https://img.shields.io/badge/-Jawad%20Ahmed-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JawadAhmedQur10)](https://twitter.com/JawadAhmedQur10) 
+[![Facebook Badge](https://img.shields.io/badge/-Jawad%20Ahmed-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/sulthannk/)](https://www.facebook.com/in/iamjawadah5643953@gmail.com/) 
+[![Instagram Badge](https://img.shields.io/badge/-Jawad%20Ahmed-red?style=flat-square&logo=Instagram&logoColor=yellow&link=https://instagram.com)](https://www.instagram.com/iamjawadah5643953/)
