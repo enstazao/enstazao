@@ -17,6 +17,6 @@
 
 <br>
 
-[![Twitter Badge](https://img.shields.io/badge/-Jawad%20Ahmed-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JawadAhmedQur10)](https://twitter.com/JawadAhmedQur10) 
-[![Facebook Badge](https://img.shields.io/badge/-Jawad%20Ahmed-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/sulthannk/)](https://www.facebook.com/in/iamjawadah5643953@gmail.com/) 
-[![Instagram Badge](https://img.shields.io/badge/-Jawad%20Ahmed-red?style=flat-square&logo=Instagram&logoColor=yellow&link=https://instagram.com)](https://www.instagram.com/iamjawadah5643953/)
+[![Twitter Badge](https://img.shields.io/badge/-Jawad%20Ahmed-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_hoonnete)](https://twitter.com/_hoonnete) 
+[![Facebook Badge](https://img.shields.io/badge/-Jawad%20Ahmed-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://twitter.com/_hoonnete)](https://web.facebook.com/profile.php?id=100049580945122) 
+[![Instagram Badge](https://img.shields.io/badge/-Jawad%20Ahmed-red?style=flat-square&logo=Instagram&logoColor=yellow&link=https://instagram.com)](https://www.instagram.com/h.oonnete/)
