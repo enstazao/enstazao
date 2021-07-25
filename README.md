@@ -54,5 +54,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
-  <p align="center"> <a href="https://twitter.com/cridoreaan" target="blank"><img src="https://img.shields.io/twitter/follow/enstazao?logo=twitter&style=for-the-badge" alt="enstazao" /></a><p align="center"></p>
+  <p align="center"> <a href="https://twitter.com/enstazao" target="blank"><img src="https://img.shields.io/twitter/follow/enstazao?logo=twitter&style=for-the-badge" alt="enstazao" /></a><p align="center"></p>
 </p>
