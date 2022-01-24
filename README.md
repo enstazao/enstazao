@@ -1,58 +1,57 @@
-![](https://komarev.com/ghpvc/?username=enstazao&color=dc143c)
+  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there!</h2>
+<h1 align="center">Hi, I'm Jawad Ahmed <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h3 font-size="20" align="center">A Passionate Python Developer</h3>
 
-<h2> 💁‍♂️ I'm Jawad Ahmed </h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
+<a target="_blank">
+  <img align="right" height="200" width="350" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+</a>
+</br>
 
-- 🎓 &nbsp; Studying Computer Science at FAST Nuces.
-- 🤔 &nbsp; Exploring new technologies.
-- 🌱 &nbsp; Learning more about Programming Languages and Web Development.
-- 🥋 &nbsp; My hobbies are playing Cricket and exploring new things.
+- 👀 I’m interested in applied ML and AI, System Administration and Web Development.
 
-<h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
+- 🌱 I’m currently learning System Administration and Web Development.
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat&logo=LaTex)
+-  👨‍💻 All of my projects are available [@enstazao](https://github.com/enstazao)
 
-- 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+- 🤝 If I can help you, please do not hesitate to contact me by the following link
 
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
-
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+-----
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
+<code><img width="43" height="43" src="https://user-images.githubusercontent.com/59575502/127426759-a687aa90-d647-46c9-86f7-c8e948f8095e.png" alt="python"/>
+</code>
+<code><img height="52" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
+<code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
 
 <br/>
-<br>
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<br/>
+</div>
+<h3 align="center">Connect with me:</h3>
+<div align="center">
 
-<p align='center'>
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghazaleh-hadian-91a86b43/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghazal.hadiyan@gmail.com)
   
-  <a href="https://www.linkedin.com/in/jawad-ahmed-1bb8ba1bb/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+</div>
 
-  <a href="https://instagram.com/enstazao">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+---
 
-  <a href="https://twitter.com/enstazao">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="mailto:enstazao@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<p align="center">
+<a href="https://github.com/enstazao">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enstazao&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enstazao&layout=compact&exclude_lang=java+r&theme=vue-light" />
+</a>
 </p>
-  <p align="center"> <a href="https://twitter.com/enstazao" target="blank"><img src="https://img.shields.io/twitter/follow/enstazao?logo=twitter&style=for-the-badge" alt="enstazao" /></a><p align="center"></p>
-</p>
+</div>
+<br/>
+
+---
