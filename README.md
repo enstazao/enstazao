@@ -41,17 +41,3 @@
   
 </div>
 
----
-
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-<p align="center">
-<a href="https://github.com/enstazao">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enstazao&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enstazao&layout=compact&exclude_lang=java+r&theme=vue-light" />
-</a>
-</p>
-</div>
-<br/>
-
----
